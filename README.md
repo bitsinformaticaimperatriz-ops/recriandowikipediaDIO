@@ -1,10 +1,8 @@
 📝 Recriando a Wikipédia - Inteligência Artificial
-Este projeto foi desenvolvido como parte do Módulo 3 da Trilha HTML/CSS, com o objetivo de recriar a estrutura e o design de um artigo da Wikipédia. O foco principal foi a aplicação de HTML5 Semântico, Acessibilidade e layouts avançados com CSS Grid.
+Este projeto foi desenvolvido como parte do Módulo 3 da Trilha HTML, com o objetivo de recriar a estrutura e o design de um artigo da Wikipédia. O foco principal foi a aplicação de HTML5 Semântico, Acessibilidade e layouts avançados com CSS Grid.
 
 🚀 Tecnologias Utilizadas
 HTML5: Uso de tags semânticas (article, section, aside, figure) para melhor indexação e acessibilidade.
-
-CSS3: Implementação de layouts complexos utilizando CSS Grid Layout e posicionamento sticky.
 
 Acessibilidade: Implementação de atributos ARIA e textos alternativos para leitores de tela.
 
@@ -47,3 +45,4 @@ Desenvolvido por Werbert Souza Silva 🚀
 # recriandowikipediaDIO
 # recriandowikipediaDIO
 # recriandowikipediaDIO
+
